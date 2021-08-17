@@ -1,16 +1,35 @@
-### Hi there 👋
+##
+* :bowtie: Olá!! :wave: Me chama Alexsandro mas podem me chamar de Canidia.
+* :smile: No momento estou trabalhando de freelancer;
+* :sunglasses: Tenho feito vários projetos que vão desde a área de Designer, layout e hospedagem;
+* :smiley: Atualmente, estou estudando no Curso FullStack da Danki Code e aprimorando minhas habilidades em HTML, CSS , JS e GitHub. 
+* :seedling: No curso irei aprender várias stacks como: PHP, Jquery, Photoshop, Materialize, BootStrap, Vanilla, Angular, React, Vue, Sass, Less, Node Js, UX e UI, Webpack, Gulp, Typescript, WebRTC, EletronJS, Python, MVC, Docker, AWS, NextJs, GraphQL e na área de banco de dados: MySql, Firebase e MongoDB e inglês para programadores.
+* :wink: Estou aberto para receber propostas  para trabalhar em regime clt na modalidade home office ou presencial.
+* :squirrel: Conecte-se comigo através do LinkeDin :fireworks: [Link](https://www.linkedin.com/in/alexsandro-santos-sousa/).
+* :sparkles: Você pode conferir meus projetos e conferir a evolução do meu aprendizado e quem sabe codar juntos!!!
 
-<!--
-**DevProCanidia/DevProCanidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack :computer:
+ <div>
+  <a href="https://github.com/DevProCanidia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevProCanidia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevProCanidia&layout=compact&langs_count=16&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Can-GitHub" height="30" width="40" src="https://simpleicons.org/icons/github.svg">
+  <img align="center" alt="Can-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Can-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Can-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Can-Git" height="30" width="40" src="https://simpleicons.org/icons/git.svg">
+  
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div> 
+ <a href="https://www.instagram.com/canniggya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:canniggya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://https://www.linkedin.com/in/alexsandro-santos-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+<p style align="right">:copyright: DevProCanidia</p>
