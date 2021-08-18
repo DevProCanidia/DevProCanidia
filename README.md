@@ -5,7 +5,7 @@
 * :smiley: Atualmente, estou estudando no Curso FullStack da Danki Code e aprimorando minhas habilidades em HTML, CSS , JS e GitHub. 
 * :seedling: No curso irei aprender várias stacks como: PHP, Jquery, Photoshop, Materialize, BootStrap, Vanilla, Angular, React, Vue, Sass, Less, Node Js, UX e UI, Webpack, Gulp, Typescript, WebRTC, EletronJS, Python, MVC, Docker, AWS, NextJs, GraphQL e na área de banco de dados: MySql, Firebase e MongoDB e inglês para programadores.
 * :wink: Estou aberto para receber propostas  para trabalhar em regime clt na modalidade home office ou presencial.
-* :squirrel: Conecte-se comigo através do LinkeDin :fireworks: [Link](https://www.linkedin.com/in/alexsandro-santos-sousa/).
+* :mailbox: Conecte-se comigo através do [LinkeDin](https://www.linkedin.com/in/alexsandro-santos-sousa/). 
 * :sparkles: Você pode conferir meus projetos e conferir a evolução do meu aprendizado e quem sabe codar juntos!!!
 
 ## Tech Stack :computer:
