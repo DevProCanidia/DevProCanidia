@@ -28,9 +28,11 @@
  <a href="https://www.instagram.com/canniggya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:canniggya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://https://www.linkedin.com/in/alexsandro-santos-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<p style align="right">:copyright: DevProCanidia</p>
+ 
+ <p style align="right">:copyright: DevProCanidia</p>
  <img align="right" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
  
- ![Snake animation](https://github.com/DevProCanidia/DevProCanidia/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
