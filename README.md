@@ -20,6 +20,8 @@
   <img align="center" alt="Can-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Can-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Can-Git" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+  <img align="center" alt="Can-Node" height="30" width="40" src="https://icons8.com.br/icon/hsPbhkOH4FMe/node-js">
+  <img align="center" alt="Can-Node" height="30" width="40" src="https://icons8.com.br/icon/123603/nativo-de-reagir">
   
  </div>
 </br>
