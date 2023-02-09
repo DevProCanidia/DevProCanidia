@@ -2,8 +2,8 @@
 * :bowtie: Olá!! :wave: Me chama Alexsandro mas podem me chamar de Canidia.
 * :smile: No momento estou trabalhando de freelancer;
 * :sunglasses: Tenho feito vários projetos que vão desde a área de Designer, layout e hospedagem;
-* :smiley: Atualmente, estou estudando no Curso FullStack da Danki Code e aprimorando minhas habilidades em HTML, CSS , JS e GitHub. 
-* :seedling: No curso aprendi várias stacks como: Java Script, Jquery, Materialize, BootStrap, Vanilla, Angular, React, Vue, Sass, Less, Node Js, UX e UI, Typescript, WebRTC e na área de banco de dados estou estudando: MySql, Firebase e MongoDB e inglês para programadores.
+* :seedling: No curso aprendi várias stacks como: Java Script, Jquery, Materialize, BootStrap, Vanilla, Angular, React, Vue, Sass, Less, Node Js, UX e UI, Typescript, WebRTC e na área de banco de dados Firebase e MongoDB; 
+* :smiley: Atualmente, estou estudando no Curso FullStack da Danki Code e aprimorando minhas habilidades em NodeJs, React, MySql, Firebase e MongoDB e inglês para programadores; 
 * :wink: Estou aberto para receber propostas  para trabalhar em regime clt na modalidade home office ou presencial.
 * :mailbox: Conecte-se comigo através do [LinkeDin](https://www.linkedin.com/in/alexsandro-santos-sousa/). 
 * :sparkles: Você pode conferir meus projetos e conferir a evolução do meu aprendizado e quem sabe codar juntos!!!
